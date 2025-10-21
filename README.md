@@ -10,7 +10,7 @@ I've built an interactive galaxy where you can explore 100+ testing tools and fr
 
 Goal: Make testing knowledge accessible, visual, and connected.
 
-Try it live: https://anshita-bhasin.github.io/TestVerse/
+Try it live: 
 
 Built with React. Based on my Software Testing Ecosystem (v6).
 
